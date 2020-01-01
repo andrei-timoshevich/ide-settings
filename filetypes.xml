@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="ExceptionPostprocessor" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping pattern="token for git" type="PLAIN_TEXT" />
       <mapping pattern="docker for service" type="PLAIN_TEXT" />
       <mapping pattern="safari" type="PLAIN_TEXT" />
       <mapping pattern="banner" type="PLAIN_TEXT" />
