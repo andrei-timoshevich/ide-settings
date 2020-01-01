@@ -1,8 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="ExceptionPostprocessor" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="docker for service" type="PLAIN_TEXT" />
+      <mapping pattern="safari" type="PLAIN_TEXT" />
       <mapping pattern="banner" type="PLAIN_TEXT" />
       <mapping pattern="jasypt" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
