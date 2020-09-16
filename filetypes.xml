@@ -8,6 +8,7 @@
       <mapping pattern="docker for service" type="PLAIN_TEXT" />
       <mapping pattern="safari" type="PLAIN_TEXT" />
       <mapping pattern="banner" type="PLAIN_TEXT" />
+      <mapping pattern="Deserializer" type="PLAIN_TEXT" />
       <mapping pattern="jasypt" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="kapt_metadata" type="PLAIN_TEXT" />
